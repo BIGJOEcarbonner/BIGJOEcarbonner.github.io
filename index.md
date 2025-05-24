@@ -1,4 +1,4 @@
-# JOE CARBONNERS MASSIVE HUGE **!!!GREAT!!!** WEBSITE
+# JOE CARBONNERS MASSIVE HUGE *!!!GREAT!!!* WEBSITE
 
 ## ABOUT ME
 
@@ -25,6 +25,14 @@ Creative writing projects, opinion pieces, immaculate MS paint constructed maps,
 
 Do it pussy
 
-## DIRECTORY
+# DIRECTORY
+
+## CREATIVE WRITING WORKS 
 
 [Blue-Lake](Blue-Lake.md)
+
+## OPINION PIECES 
+
+## LINKS TO COOL SHIT
+
+# fin.
