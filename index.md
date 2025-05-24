@@ -32,7 +32,7 @@ Do it pussy
 
 ## CREATIVE WRITING WORKS 
 
-- [Blue Lake](Blue-Lake.md) extremely gay (coming soon) rip off of groundhogs day with some inspiration from **Metamorphosis of Prime Intellect**
+- [Blue Lake](Blue-Lake.md) this shit's gonna devolve into yaoi eventually
 
 ## OPINION PIECES 
 
