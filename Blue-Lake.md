@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BLUE LAKE
-date_published: 1935-12-31
+date_published: 1997-12-31
 date_latest_revision: In My Latest Dream
 author: Joe Carbonner
 ---
@@ -12,4 +12,8 @@ author: Joe Carbonner
 
 ## PLAN
 
+
+
 # THE MAGNUM OPIS
+
+
