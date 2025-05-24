@@ -1,6 +1,9 @@
-# JOE CARBONNERS MASSIVE HUGE *!!!GREAT!!!* WEBSITE
+---
+layout: default
+title: JOE CARBONNERS MASSIVE HUGE GIGANTIC MASSIVE-MASSIVE MASSIVE-MASSIVE-MASSIVE PRETTY BIG *!!!GREAT!!!* WEBSITE
+---
 
-## ABOUT ME
+# ABOUT ME
 
 welcome to my website,
 
@@ -17,11 +20,11 @@ I am JOE CARBONER (alias not real name) a untrained, unverified amaeteur creativ
 - I also go by Ultra-Papa Smurf, Ultra Smurf, B.I.G Carbonner
 - Trans-Inclusive Radical Mysoginist
 
-## WHAT I WILL POST HERE?
+# WHAT I WILL POST HERE?
 
 Creative writing projects, opinion pieces, immaculate MS paint constructed maps, links to creators and stuff I like
 
-## WHY YOU SHOULD STAY HERE AND ENJOY MY CREATIONS?
+# WHY YOU SHOULD STAY HERE AND ENJOY MY CREATIONS?
 
 Do it pussy
 
