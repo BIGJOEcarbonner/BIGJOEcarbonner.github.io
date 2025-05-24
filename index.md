@@ -24,3 +24,7 @@ Creative writing projects, opinion pieces, immaculate MS paint constructed maps,
 ## WHY YOU SHOULD STAY HERE AND ENJOY MY CREATIONS?
 
 Do it pussy
+
+## DIRECTORY
+
+[Blue-Lake](Blue-Lake.md)
