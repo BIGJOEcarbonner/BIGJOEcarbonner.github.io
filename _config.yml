@@ -1,0 +1,8 @@
+remote_theme: tirimid/jekyll-shell-theme
+
+header_pages:
+  - index.md
+
+highlighter: rouge
+
+license_statement: (put a license here)
