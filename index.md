@@ -29,9 +29,11 @@ Do it pussy
 
 ## CREATIVE WRITING WORKS 
 
-[Blue-Lake](Blue-Lake.md)
+- [Blue Lake](Blue-Lake.md) extremely gay (coming soon) rip off of groundhogs day with some inspiration from **Metamorphosis of Prime Intellect**
 
 ## OPINION PIECES 
+
+- [Why Evangelion is gods gift to mankind and why i get no bitches](Evangelion-Glazing.md) its in the title
 
 ## LINKS TO COOL SHIT
 
